@@ -48,7 +48,7 @@ Para com que o Java executer sem problemas e necessário fazer a configuração 
 
 <img src="https://user-images.githubusercontent.com/68359459/211349084-f2a4de40-db5d-4184-b9df-f5955ebabfe2.PNG" alt="variaveis de ambiente" />
 
-<img src="https://user-images.githubusercontent.com/68359459/211349408-8649bcf4-d7aa-408a-8cca-e581e57ccd28.PNG" " alt="configuracao da variavel de ambiente" />
+<img src="https://user-images.githubusercontent.com/68359459/211349408-8649bcf4-d7aa-408a-8cca-e581e57ccd28.PNG" alt="configuracao da variavel de ambiente" />
 
 * <a href="https://spring.io/tools" target="blank">Spring Tools</a>
 
