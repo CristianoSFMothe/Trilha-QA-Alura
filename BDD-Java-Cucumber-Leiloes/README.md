@@ -46,9 +46,9 @@ OS name: "windows 10", version: "10.0", arch: "amd64", family: "windows"
 
 Para com que o Java executer sem problemas e necessário fazer a configuração das variáveis de ambiente
 
-<img src="C:\Users\crist\OneDrive\Imagens\variavel-ambiente.PNG" alt="variaveis de ambiente" />
+<img src="https://user-images.githubusercontent.com/68359459/211349084-f2a4de40-db5d-4184-b9df-f5955ebabfe2.PNG" alt="variaveis de ambiente" />
 
-<img src="C:\Users\crist\OneDrive\Imagens\configuracao.PNG" alt="configuracao da variavel de ambiente" />
+<img src="https://user-images.githubusercontent.com/68359459/211349408-8649bcf4-d7aa-408a-8cca-e581e57ccd28.PNG" " alt="configuracao da variavel de ambiente" />
 
 * <a href="https://spring.io/tools" target="blank">Spring Tools</a>
 
@@ -64,15 +64,15 @@ Para realizar a configuração do IntelliJ Community e simples, só seguir as im
 
 * Executar a aplicação em `src > main > java > br.com.alura.leilao > LeilaoApplication`
 
-<img src="C:\Users\crist\OneDrive\Imagens\Sem título.png" alt="Tela inicial do projeto" />
+<img src="https://user-images.githubusercontent.com/68359459/211349547-376ba985-3ae4-43ff-b729-6193d428dc03.png" alt="Tela inicial do projeto" />
 
 * Configurar o ambiente de execução
 
-<img src="C:\Users\crist\OneDrive\Imagens\1Sem título.png" alt="abrir a configuração do ambiente" />
+<img src="https://user-images.githubusercontent.com/68359459/211349671-152aeb42-b630-4a5b-98af-5f7d0ed608d9.png" alt="abrir a configuração do ambiente" />
 
 * Adicionar a variável da VM 
 
-<img src="C:\Users\crist\OneDrive\Imagens\02.png" alt="variavel de ambiente" />
+<img src="https://user-images.githubusercontent.com/68359459/211349853-57aab842-762d-49f3-b206-608dfa802812.png" alt="variavel de ambiente" />
 
 ### Acessa a home page do projeto
 
