@@ -24,3 +24,18 @@ Exemplos:
 	| -1    | cigano      |
 
 
+Cenario: Propondo uma sequencia de lances
+	Dado dois lances
+		| valor | nomeUsuario |
+		| 10    | beltrano    |
+		| 15    | beltrano    |
+	Quando propoe varios lances ao leilao
+	Entao o segundo lance não e aceito
+
+
+
+
+
+
+
+
