@@ -18,4 +18,3 @@ public class HelloWorldSelenium {
 
     }
 }
-//"C:\Users\crist\Documents\Workspace\Cursos\Alura\Trilha-QA-Alura\selenium-java-projeto\src\drivers\chromedriver.exe"
